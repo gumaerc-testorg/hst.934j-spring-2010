@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
+parent_uid: aab2279c-2fd7-2237-c4d3-c109ae1104fa
 resourcetype: Document
 title: Is the "3 by 5" Initiative the Best Approach to Tackling the HIV Pandemic?
 uid: 51883f14-ca7f-0780-2fa3-5740300df47b

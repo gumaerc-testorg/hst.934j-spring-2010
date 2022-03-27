@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
+parent_uid: aab2279c-2fd7-2237-c4d3-c109ae1104fa
 resourcetype: Document
 title: How Did Social Medicine Evolve, and Where Is It Heading?
 uid: 1ce14fb3-870e-d4b4-2f12-61e04dc6dbc3

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
+parent_uid: aab2279c-2fd7-2237-c4d3-c109ae1104fa
 resourcetype: Document
 title: The President's Proposal
 uid: d2cdb19e-ca21-1555-6b44-32cad6f6a26c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
+parent_uid: aab2279c-2fd7-2237-c4d3-c109ae1104fa
 resourcetype: Document
 title: The Burden of Disease
 uid: 638acf8f-658a-fbcc-b7e4-6e43060c2142

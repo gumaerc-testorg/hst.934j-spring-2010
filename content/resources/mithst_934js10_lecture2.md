@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
+parent_uid: aab2279c-2fd7-2237-c4d3-c109ae1104fa
 resourcetype: Document
 title: 'Decision Making in Cardiac Therapeutics: Ethics, History, and Policy'
 uid: 9bead3d1-833a-ed6e-7159-55944d6a25bf

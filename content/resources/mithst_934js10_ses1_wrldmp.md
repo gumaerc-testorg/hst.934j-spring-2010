@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
+parent_uid: aab2279c-2fd7-2237-c4d3-c109ae1104fa
 resourcetype: Document
 title: 'Worldmapper: The Human Anatomy of a Small Planet'
 uid: fa0b4a1c-7937-df1e-b814-b4396c05e25e

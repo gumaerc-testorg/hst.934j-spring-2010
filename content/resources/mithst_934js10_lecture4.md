@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
+parent_uid: aab2279c-2fd7-2237-c4d3-c109ae1104fa
 resourcetype: Document
 title: 'Health Care Reform: The Real Story'
 uid: 757bf121-22a2-c9dd-c6e9-f285d169fe5c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
+parent_uid: aab2279c-2fd7-2237-c4d3-c109ae1104fa
 resourcetype: Document
 title: Selected Findings from the Project on Human Development in Chicago Neighborhoods
 uid: d85a7705-7bd1-4c15-e52b-5522394c4dac
