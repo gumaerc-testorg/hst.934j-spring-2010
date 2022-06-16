@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, meeting
+  times, textbook, assignments, grading, and the schedule of lecture topics and instructors.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +21,7 @@ This course provides a space for medical students and MD/PhD students, as well a
 Course Text
 -----------
 
-There is no textbook for this course. All required and optional readings are listed on the [Readings and Lectures]({{< baseurl >}}/pages/readings-and-lectures) page. Suggested web resources are posted on the [Related Resources]({{< baseurl >}}/pages/related-resources) page.
+There is no textbook for this course. All required and optional readings are listed on the {{% resource_link aab2279c-2fd7-2237-c4d3-c109ae1104fa "Readings and Lectures" %}} page. Suggested web resources are posted on the {{% resource_link 00c7f49b-b34a-6be0-25c2-808ed057ea47 "Related Resources" %}} page.
 
 Assignments
 -----------

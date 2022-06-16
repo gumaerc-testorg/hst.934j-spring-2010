@@ -4,7 +4,7 @@ description: "A distorted world map showing the origins of both refugees and int
   \ displaced persons in 2003, where territory size shows the global proportion originating\
   \ there. (\xA9 Copyright 2006 SASI Group (University of Sheffield) and Mark Newman\
   \ (University of Michigan). Used with permission.)"
-file: /media/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/9f3f4ad26a026959801ca096b1189405_hst-934js10-th.jpg
+file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/9f3f4ad26a026959801ca096b1189405_hst-934js10-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "A distorted world map showing the origins of both refugees and internally\
@@ -21,3 +21,5 @@ resourcetype: Image
 title: Refugees and Internally Displaced Persons (thumbnail)
 uid: 9f3f4ad2-6a02-6959-801c-a096b1189405
 ---
+A distorted world map showing the origins of both refugees and internally displaced persons in 2003, where territory size shows the global proportion originating there. (© Copyright 2006 SASI Group (University of Sheffield) and Mark Newman (University of Michigan). Used with permission.)
+
