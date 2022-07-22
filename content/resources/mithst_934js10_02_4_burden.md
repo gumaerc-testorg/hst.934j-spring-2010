@@ -6,6 +6,7 @@ file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Burden of Disease
 uid: 638acf8f-658a-fbcc-b7e4-6e43060c2142
 ---
 Lecture presentation providing an introduction to social medicine: concepts, theories, and data visualization of the burden of disease.
-

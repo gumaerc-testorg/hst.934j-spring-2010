@@ -6,6 +6,7 @@ file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: LAM 101 for Clinicians and Researchers
 uid: b93fffb2-15fa-73de-6526-c0a1bcb3e14c
 ---
 Class handout on Lymphangioleiomyomatosis (LAM), a rare, fatal, multi-system disease affecting women in their childbearing years.
-

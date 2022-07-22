@@ -5,6 +5,7 @@ file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Health Care Reform: The Real Story'
 uid: 757bf121-22a2-c9dd-c6e9-f285d169fe5c
 ---
 Lecture presentation on health care reform.
-

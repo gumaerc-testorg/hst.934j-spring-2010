@@ -6,6 +6,7 @@ file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Selected Findings from the Project on Human Development in Chicago Neighb
 uid: d85a7705-7bd1-4c15-e52b-5522394c4dac
 ---
 Unpublished manuscript on the Project on Human Development in Chicago Neighborhoods.
-
