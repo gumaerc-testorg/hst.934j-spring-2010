@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on health care reform.
 file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/757bf12122a2c9ddc6e9f285d169fe5c_MITHST_934JS10_lecture4.pdf
+file_size: 862053
 file_type: application/pdf
 learning_resource_types:
 - Readings
