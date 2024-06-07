@@ -3,6 +3,7 @@ content_type: resource
 description: Unpublished manuscript on the Project on Human Development in Chicago
   Neighborhoods.
 file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/d85a77057bd14c15e52b5522394c4dac_MITHST_934JS10_ses5_phdcn.pdf
+file_size: 224648
 file_type: application/pdf
 learning_resource_types:
 - Readings
