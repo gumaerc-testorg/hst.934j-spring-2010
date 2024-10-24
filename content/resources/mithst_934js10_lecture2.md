@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation on decision making in cardiac therapeutics: ethics,
   history, and policy.'
-file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/9bead3d1833aed6e715955944d6a25bf_MITHST_934JS10_lecture2.pdf
+file: /ol-ocw-studio-app/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/9bead3d1833aed6e715955944d6a25bf_MITHST_934JS10_lecture2.pdf
 file_size: 3271817
 file_type: application/pdf
 learning_resource_types:
