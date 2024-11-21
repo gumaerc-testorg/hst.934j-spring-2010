@@ -139,7 +139,7 @@ Clinical ethics and dilemmas in local and global contexts - [Christine Mitchell]
 
 Good, Mary-Jo D. "Trauma in Postconflict Aceh and Psychopharmaceuticals as a Medium of Exchange." Unpublished manuscript.
 
-Good, Byron, et al. "Psychosocial Needs Assessment of Communities Affected by the Conflict in the Districts of Pidie, Bireuen and Aceh Utara." *Jakarta, Indonesia: International Organization for Migration*, 2006. (\[PDF\]([http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara](http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara)  
+Good, Byron, et al. "Psychosocial Needs Assessment of Communities Affected by the Conflict in the Districts of Pidie, Bireuen and Aceh Utara." *Jakarta, Indonesia: International Organization for Migration*, 2006. (\[PDF\]([http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara](http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara)   
 ))
 
 ———. "A Psychosocial Needs Assessment of Communities in 14 Conflict Affected Districts in Aceh." *Jakarta, Indonesia: International Organization for Migration*, 2007. ([PDF - 1.9MB](http://reliefweb.int/report/indonesia/indonesia-psychosocial-needs-assessment-communities-14-conflict-affected-districts))
@@ -185,8 +185,6 @@ Patient-centered solutions for orphan diseases: Solving LAM - Amy Farber and [M
 {{< tdclose >}}{{< tdopen >}}
 
 Farber, Amy. "LAM 101 for Clinicians and Researchers." Handout for class, LAM Treatment Alliance, 2009. ({{% resource_link "b93fffb2-15fa-73de-6526-c0a1bcb3e14c" "PDF" %}}) (Courtesy of LAM Treatment Alliance. Used with permission.)
-
-[LAMsight](http://lamsight.com/)
 
 LAM Treatment Alliance
 
