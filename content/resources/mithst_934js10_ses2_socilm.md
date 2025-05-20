@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Article on the history of social medicine.
-file: /ol-ocw-studio-app/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/1ce14fb3870ed4b42f1261e04dc6dbc3_MITHST_934JS10_ses2_socilm.pdf
+file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/1ce14fb3870ed4b42f1261e04dc6dbc3_MITHST_934JS10_ses2_socilm.pdf
 file_size: 303617
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Article on the Worldmapper project.
-file: /ol-ocw-studio-app/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/fa0b4a1c7937df1eb814b4396c05e25e_MITHST_934JS10_ses1_wrldmp.pdf
+file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/fa0b4a1c7937df1eb814b4396c05e25e_MITHST_934JS10_ses1_wrldmp.pdf
 file_size: 413111
 file_type: application/pdf
 learning_resource_types:
