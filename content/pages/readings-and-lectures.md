@@ -20,7 +20,7 @@ READINGS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-Introduction to social medicine: Concepts, theories, and data visualization of the burden of disease - [Michael M. J. Fischer](https://anthropology.mit.edu/people/faculty/michael-fischer), [Byron Good](https://anthropology.fas.harvard.edu/people/byron-good), [Mary-Jo DelVecchio Good](https://ghsm.hms.harvard.edu/faculty-staff/mary-jo-delvecchio-good), and [David Jones](http://web.mit.edu/sts/people/jones.html)
+Introduction to social medicine: Concepts, theories, and data visualization of the burden of disease - [Michael M. J. Fischer](https://anthropology.mit.edu/people/faculty/michael-m-j-fischer), [Byron Good](https://anthropology.fas.harvard.edu/people/byron-good), [Mary-Jo DelVecchio Good](https://ghsm.hms.harvard.edu/faculty-staff/mary-jo-delvecchio-good), and [David Jones](http://web.mit.edu/sts/people/jones.html)
 {{< tdclose >}}{{< tdopen >}}
 Slides ({{% resource_link "638acf8f-658a-fbcc-b7e4-6e43060c2142" "PDF - 4.1MB" %}})
 {{< tdclose >}}{{< tdopen >}}
@@ -139,7 +139,7 @@ Clinical ethics and dilemmas in local and global contexts - [Christine Mitchell]
 
 Good, Mary-Jo D. "Trauma in Postconflict Aceh and Psychopharmaceuticals as a Medium of Exchange." Unpublished manuscript.
 
-Good, Byron, et al. "Psychosocial Needs Assessment of Communities Affected by the Conflict in the Districts of Pidie, Bireuen and Aceh Utara." *Jakarta, Indonesia: International Organization for Migration*, 2006. (\[PDF\]([http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara](http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara)    
+Good, Byron, et al. "Psychosocial Needs Assessment of Communities Affected by the Conflict in the Districts of Pidie, Bireuen and Aceh Utara." *Jakarta, Indonesia: International Organization for Migration*, 2006. (\[PDF\]([http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara](http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara)     
 ))
 
 ———. "A Psychosocial Needs Assessment of Communities in 14 Conflict Affected Districts in Aceh." *Jakarta, Indonesia: International Organization for Migration*, 2007. ([PDF - 1.9MB](http://reliefweb.int/report/indonesia/indonesia-psychosocial-needs-assessment-communities-14-conflict-affected-districts))
