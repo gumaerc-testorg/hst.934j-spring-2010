@@ -2,7 +2,7 @@
 content_type: resource
 description: Article on projections of global mortality and burden of disease from
   2002 to 2030.
-file: /courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/8c1489b110c46c0a2446cfa03e695d99_MITHST_934JS10_ses1_proj.pdf
+file: /ol-ocw-studio-app/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/8c1489b110c46c0a2446cfa03e695d99_MITHST_934JS10_ses1_proj.pdf
 file_size: 733675
 file_type: application/pdf
 learning_resource_types:
